@@ -1,3 +1,5 @@
+<img src="https://github.com/dev-juyoung/dev-juyoung/raw/master/animation.gif" width="300">
+
 ### Hi there 👋
 
 <!--
